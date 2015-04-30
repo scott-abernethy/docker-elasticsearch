@@ -1,5 +1,5 @@
 # Dockerfiler for scottabernethy/elasticsearch
-FROM scottabernethy/java
+FROM scottabernethy/java:7
 
 ENV ELASTICSEARCH_VERSION 1.5.1
 
